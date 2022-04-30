@@ -7,3 +7,8 @@ Look on the course website for how to do this, and for how to run the tests.
 https://design-computing.github.io/md/week1
 
 """
+# comment
+print("hello world")
+print("hello world!")
+print("hello world")
+print("hello world!")
