@@ -2,7 +2,7 @@ name: Ryann Musca
 studentNumber: BVN123
 officialEmail: musca.ryann@gmail.com
 contactEmail: # don't write on this line
-  firstBit: Ryann # this avoids spam, the @ is implied
+  firstBit: musca.ryann # this avoids spam, the @ is implied
   otherBit: gmail.com
 # accounts
 stackOverflowLink: https://stackoverflow.com/users/1835727/RM
